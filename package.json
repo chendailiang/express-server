@@ -1,0 +1,24 @@
+{
+  "name": "express-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chendailiang/express-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chendailiang/express-server/issues"
+  },
+  "homepage": "https://github.com/chendailiang/express-server#readme",
+  "dependencies": {
+    "connect-history-api-fallback": "^2.0.0",
+    "express": "^4.18.2",
+    "http-proxy-middleware": "^2.0.6"
+  }
+}
